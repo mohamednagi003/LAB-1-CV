@@ -78,14 +78,7 @@ for i in range(rows):
 
 ---
 
-## Example Output
 
-### Input vs. Output
-| **Original Image**          | **Resized Image**           |
-|-----------------------------|-----------------------------|
-| ![Original](example_original.jpg) | ![Resized](resized_output.jpg) |
-
----
 
 ## Future Enhancements
 - Add support for **horizontal seam removal** to resize height.
@@ -94,10 +87,4 @@ for i in range(rows):
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## Acknowledgments
-This implementation is based on the seam carving algorithm proposed by Shai Avidan and Ariel Shamir in their paper: *"Seam Carving for Content-Aware Image Resizing".*
